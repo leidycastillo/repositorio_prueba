@@ -1,0 +1,23 @@
+Iniciar un repositorio Git:
+git init
+como saber si hay cambios
+git status
+Añadir un archivo
+git add
+como quitar un archivo del commit
+git restore --staged <nombre_archivo>
+para consulta version:
+git -v
+reseteo de fabrica
+git reset HEAD <nombre_del_archivo>
+commit es un paquete de cambios
+comando historial:
+git log
+ para enlazar remoto
+git remote add origin url
+para comprobar enlaze
+git remote -v
+para subir un cambio a la nube
+git push
+git config user.name "leidycastillo"
+git config user.email "leidycastillo797@gmail.com
